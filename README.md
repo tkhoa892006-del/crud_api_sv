@@ -10,7 +10,7 @@ Mo SQL Server Management Studio (hoac Azure Data Studio), ket noi den:
 .\SQLEXPRESS
 ```
 
-Mo file [sql/student_db.sql](sql/student_db.sql), chon **Execute**. Script se tao database
+Mo file [database/data.sql](database/data.sql), chon **Execute**. Script se tao database
 `student_db`, bang `dbo.students` va du lieu mau neu cac doi tuong chua ton tai.
 
 ### 2. Bat ket noi tu Spring Boot
