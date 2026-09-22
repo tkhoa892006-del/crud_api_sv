@@ -35,6 +35,7 @@ build/
 # Local database credentials
 .env
 application-local.properties
+CAU_TRA_LOI_BAI_THAY.txt
 
 # Stale VS Code worktree metadata
 .git.worktree-backup
